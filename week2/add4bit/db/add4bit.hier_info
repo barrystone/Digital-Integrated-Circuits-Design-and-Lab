@@ -1,0 +1,16 @@
+|add4bit
+cout <= <GND>
+sum[0] <= <GND>
+sum[1] <= <GND>
+sum[2] <= <GND>
+sum[3] <= <GND>
+a[0] => ~NO_FANOUT~
+a[1] => ~NO_FANOUT~
+a[2] => ~NO_FANOUT~
+a[3] => ~NO_FANOUT~
+b[0] => ~NO_FANOUT~
+b[1] => ~NO_FANOUT~
+b[2] => ~NO_FANOUT~
+b[3] => ~NO_FANOUT~
+
+
